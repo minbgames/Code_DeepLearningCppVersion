@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/Deep_Cpp_version.dir/lab-06-1-softmax_classifier.cpp.o  -o Deep_Cpp_version 
